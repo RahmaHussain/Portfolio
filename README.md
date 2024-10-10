@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Futuer
+
+This portfolio is going to be a "web application" not a website because of the reasons why we prefer web apps instead of websites, loading , seamlessness etc.
+
+The domain name will be rahma.io, we shall upload blogs leveraging django, we shall buy the domain name or find something free that is close enough to rahma.io
