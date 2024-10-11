@@ -6,4 +6,11 @@ export const routes: Routes = [
     path: '',
     component: LandingComponent,
   },
+  // {
+  //   path: 'certificates',
+  //   loadChildren: () =>
+  //     import('./certificates/certificates.module').then(
+  //       (m) => m.CertificatesModule
+  //     ),
+  // },
 ];
